@@ -22,9 +22,9 @@ Changes
 ~~~~~~~
 
 - Converted geocoding test to check
-  `#90 <https://github.com/openwisp/django-loci/issues/90>`_
+  `#90 <https://github.com/burlesquer/django-loci/issues/90>`_
 - Use ``ReconnectingWebsocket`` to websocket connection
-  `#101 <https://github.com/openwisp/django-loci/issues/101>`_
+  `#101 <https://github.com/burlesquer/django-loci/issues/101>`_
 - Dropped support for Python ``3.6``
 - Added support for Python ``3.8`` and ``3.9``
 - Added support for Django ``3.2.x`` and ``4.0.x``
@@ -47,7 +47,7 @@ Version 0.4.2 [2021-03-16]
 --------------------------
 
 - Fixed broken UI in inline geo selection flow caused by a JS change in django
-  (`issue #85 <https://github.com/openwisp/django-loci/issues/85>`_)
+  (`issue #85 <https://github.com/burlesquer/django-loci/issues/85>`_)
 
 Version 0.4.1 [2021-02-24]
 --------------------------

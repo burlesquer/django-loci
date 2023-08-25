@@ -48,7 +48,7 @@ setup(
     description='Reusable django-app for outdoor and indoor mapping',
     long_description=open('README.rst').read(),
     url='http://openwisp.org',
-    download_url='https://github.com/openwisp/django-loci/releases',
+    download_url='https://github.com/burlesquer/django-loci/releases',
     platforms=['Platform Independent'],
     keywords=['django', 'gis'],
     packages=find_packages(exclude=['tests*', 'docs*']),

@@ -1,8 +1,8 @@
 django-loci
 ===========
 
-.. image:: https://github.com/openwisp/django-loci/workflows/Django%20Loci%20Build/badge.svg?branch=master
-   :target: https://github.com/openwisp/django-loci/actions?query=workflow%3A"Django+Loci+Build"
+.. image:: https://github.com/burlesquer/django-loci/workflows/Django%20Loci%20Build/badge.svg?branch=master
+   :target: https://github.com/burlesquer/django-loci/actions?query=workflow%3A"Django+Loci+Build"
    :alt: CI build status
 
 .. image:: https://coveralls.io/repos/openwisp/django-loci/badge.svg
@@ -91,13 +91,13 @@ Install tarball:
 
 .. code-block:: shell
 
-    pip install https://github.com/openwisp/django-loci/tarball/master
+    pip install https://github.com/burlesquer/django-loci/tarball/master
 
 Alternatively you can install via pip using git:
 
 .. code-block:: shell
 
-    pip install -e git+git://github.com/openwisp/django-loci#egg=django_loci
+    pip install -e git+git://github.com/burlesquer/django-loci#egg=django_loci
 
 If you want to contribute, install your cloned fork:
 
@@ -185,7 +185,7 @@ The filestorage can be changed to a different one as long as it has an
 
 To understand the details of this statement, take a look at the code of
 `django_loci.storage.OverwriteStorage
-<https://github.com/openwisp/django-loci/blob/master/django_loci/storage.py>`_.
+<https://github.com/burlesquer/django-loci/blob/master/django_loci/storage.py>`_.
 
 ``DJANGO_LOCI_GEOCODER``
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -542,9 +542,9 @@ Contributing
 Changelog
 ---------
 
-See `CHANGES <https://github.com/openwisp/django-loci/blob/master/CHANGES.rst>`_.
+See `CHANGES <https://github.com/burlesquer/django-loci/blob/master/CHANGES.rst>`_.
 
 License
 -------
 
-See `LICENSE <https://github.com/openwisp/django-loci/blob/master/LICENSE>`_.
+See `LICENSE <https://github.com/burlesquer/django-loci/blob/master/LICENSE>`_.

@@ -46,7 +46,7 @@ setup(
     author='Federico Capoano',
     author_email='support@openwisp.io',
     description='Reusable django-app for outdoor and indoor mapping',
-    long_description=open('README.rst').read(),
+    long_description=open('README.rst', encoding='utf-8').read(),
     url='http://openwisp.org',
     download_url='https://github.com/burlesquer/django-loci/releases',
     platforms=['Platform Independent'],
